@@ -1,0 +1,4 @@
+git remote add origin "link"	= to add remote repo
+git pull origin master		= to pull from remote repo to local repo
+
+git add <file>
