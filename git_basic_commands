@@ -3,3 +3,9 @@ git pull origin master			= to pull from remote repo to local repo
 
 git add <file>					= to add file from workspace to index
 git commit -m "message"			= to commit all files on index to local repo
+
+git log
+
+git branch branch_name
+
+git checkout branch_name
