@@ -1,3 +1,5 @@
+git init
+
 git remote add origin "link"	= to add remote repo
 git pull origin master			= to pull from remote repo to local repo
 
@@ -9,3 +11,7 @@ git log
 git branch branch_name
 
 git checkout branch_name
+
+git merge branch_name (merge branch_name to current branch)
+
+git rebase branch_name (still doubtful)
